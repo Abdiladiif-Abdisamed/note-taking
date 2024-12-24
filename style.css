@@ -99,4 +99,8 @@ body{
     .note-area:hover{
         max-width: 300px;
     }
+
+    .note-now{
+        max-width: 300px;
+    }
 }
