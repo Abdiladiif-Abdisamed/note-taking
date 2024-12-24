@@ -96,4 +96,7 @@ body{
     .note-area{
         max-width: 300px;
     }
+    .note-area:hover{
+        max-width: 300px;
+    }
 }
